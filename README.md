@@ -8,7 +8,7 @@ Swift 3
 # Methods
  1.- cleanR(n:String)->String:
  
-         This method clean a "number" in form of String, if is anomalous String.
+         This method clean a "number" in form of String, if contains anomalous characters on these.
   
  2.- isNumber(n:String)->Bool:
  
