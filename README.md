@@ -66,7 +66,7 @@ Swift 3
   
   17.- Double(n:String)->String: 
   
-       Transform String(int) in String(Double).
+       Transform String(int) to String(Double).
   
   18.- lengthCount(n:String)->String: 
   
