@@ -1,5 +1,5 @@
 #                         ---> THE Millennial Genius <---
-# MathString
+# MathString Vol. 1
 A library with functions that compute Strings, to the Digital Style.
 
 # Programming Language
