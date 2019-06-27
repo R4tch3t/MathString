@@ -1,4 +1,4 @@
-# MathString Vol. 1
+# MathString Vol. 2
 A library with functions that compute Strings, to the Digital Style.
 
 # Programming Language
