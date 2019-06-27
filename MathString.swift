@@ -1262,7 +1262,7 @@ class MathString: NSObject {
                 }
 
                 Result=StackA+""
-            }else if(countDot<0) {
+            }else{
                 StackA=Array(Result)
                 countDot-=1
                 while(countDot<0){
