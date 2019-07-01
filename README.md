@@ -2,7 +2,7 @@
 A library with functions that compute Strings, to the Digital Style.
 
 # Programming Language
-Swift 3
+Swift 5
 
 # Methods
  1.- cleanR(n:String)->String:
